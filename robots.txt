@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proraj894-oss.github.io/F/sitemap.xml
