@@ -13,7 +13,7 @@
 
   <!-- Ownership / Monetization -->
   <meta name="google-adsense-account" content="ca-pub-8648198938608752" />
-  <!-- Replace XXXXX with your real Search Console code -->
+  <!-- Replace <meta name="google-site-verification" content="jjs9qAzIG90qDMvYVQ7_bRJ3otQwU3P_jZHwovlIu7k" /> with your real Search Console code -->
   <meta name="google-site-verification" content="<meta name="google-adsense-account" content="ca-pub-8648198938608752">" />
 
   <!-- Canonical & Sitemap Hint -->
