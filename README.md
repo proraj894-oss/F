@@ -14,7 +14,7 @@
   <!-- Ownership / Monetization -->
   <meta name="google-adsense-account" content="ca-pub-8648198938608752" />
   <!-- Replace XXXXX with your real Search Console code -->
-  <meta name="google-site-verification" content="XXXXX" />
+  <meta name="google-site-verification" content="<meta name="google-adsense-account" content="ca-pub-8648198938608752">" />
 
   <!-- Canonical & Sitemap Hint -->
   <link rel="canonical" href="https://proraj894-oss.github.io/Fin/" />
