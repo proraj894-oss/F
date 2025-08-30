@@ -3,6 +3,7 @@
 <head>
   <!-- Essentials -->
   <meta charset="utf-8" />
+  <meta name="google-site-verification" content="jjs9qAzIG90qDMvYVQ7_bRJ3otQwU3P_jZHwovlIu7k" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
   <!-- Title & SEO -->
